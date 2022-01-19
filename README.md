@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Salman khan a PhD student at Visual Artificial Intelligence Laboratory ([VAIL])(https://cms.brookes.ac.uk/staff/FabioCuzzolin/).
+I am Salman khan a PhD student at Visual Artificial Intelligence Laboratory [(VAIL)](https://cms.brookes.ac.uk/staff/FabioCuzzolin/).
 
 <a href="https://github.com/IemProg/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=salmank255&show_icons=true&include_all_commits=true&theme=radical" alt="Salman's github stats" />
